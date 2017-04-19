@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mouse Swipe</string>
+    <string name="play_game_button">Start</string>
+    <string name="how_to_play_button">How To Play?</string>
+    <string name="high_scores_button">Highscores</string>
+    <string name="settings_button">Settings</string>
+    <string name="preference_file_key">preference_file</string>
+    <string name="current_level">current_level</string>
+    <string name="reset_game_button">reset game</string>
+    <string name="button_locked">button locked</string>
+</resources>

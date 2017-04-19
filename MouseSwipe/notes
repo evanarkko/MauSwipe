@@ -1,0 +1,8 @@
+WALL ISSUES:
+-because of px/frame, mouse sometimes overlaps wall
+	-probably simply fix this separately each time it happens
+-mouse can be swiped through wall
+	-prevent by always checking if wall in front
+-when mouse is in superposition, "weaker" embodiment will pass through wall
+	-trying to fix through smarter GameCharacter object with a 
+	better collider/collision method
